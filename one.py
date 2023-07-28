@@ -6,12 +6,12 @@ def hello_name(user_name):
     """ Print hello_USERNAME!"""
     print("hello_USERNAME!")
 
+hello_name("USERNAME")
+
+
 # Question 2. Write a python function, first_odds that prints the odd numbers from 1-100 and returns nothing. The first 
 # line of code has been defined as below.
-          
-          
-hello_name("USERNAME") 
-
+               
 
 def first_odds():
     """ print odd nunbers 1-100"""
